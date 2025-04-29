@@ -1,15 +1,15 @@
 # Talal Nazir
 
-**Senior Full Stack Web Developer & CTO** at Aptagon Technologies :contentReference[oaicite:0]{index=0}
+**Senior Full Stack Web Developer & CTO** at Aptagon Technologies 
 
-📍 Okara District, Pakistan :contentReference[oaicite:1]{index=1}  
+📍 Okara District, Pakistan : 
 🔗 [LinkedIn](https://www.linkedin.com/in/talal-nazir/)  
 
 ---
 
 ## 📝 About Me
 
-I specialize in building scalable, high-performance web applications. My technical expertise spans **Laravel (PHP), JavaScript (ES6+), Angular.js, Next.js, React.js, Node.js, Python, WordPress**, and **AWS** :contentReference[oaicite:2]{index=2}. As CTO at Aptagon Technologies, I lead architecture, development, and DevOps for enterprise-grade solutions and mentor our engineering teams.
+I specialize in building scalable, high-performance web applications. My technical expertise spans **Laravel (PHP), JavaScript (ES6+), Angular.js, Next.js, React.js, Node.js, Python, WordPress**, and **AWS** . As CTO at Aptagon Technologies, I lead architecture, development, and DevOps for enterprise-grade solutions and mentor our engineering teams.
 
 ---
 
@@ -28,7 +28,7 @@ I specialize in building scalable, high-performance web applications. My technic
 ## 🚀 Experience
 
 **Chief Technology Officer**  
-Aptagon Technologies (2020 – Present) :contentReference[oaicite:3]{index=3}  
+Aptagon Technologies (2020 – Present)   
 - Define and execute technology strategy, architecture, and roadmap.  
 - Oversee full-stack development, QA, and cloud deployments (AWS).  
 - Drive UI/UX best practices, code quality, testing, and CI/CD.  
@@ -48,8 +48,8 @@ Aptagon Technologies (2020 – Present) :contentReference[oaicite:3]{index=3}
 
 ## 📫 Contact
 
-- **Email:** [contact@aptagon.com](mailto:contact@aptagon.com)  
-- **Website:** [aptagon.com](https://aptagon.com/) :contentReference[oaicite:4]{index=4}  
+- **Email:** [contact@aptagon.com](mailto:talallnazir007@gmail.com)  
+- **Website:** [aptagon.com](https://aptagon.com/)   
 - **LinkedIn:** [linkedin.com/in/talal-nazir](https://www.linkedin.com/in/talal-nazir/)  
 
 ---
@@ -59,5 +59,4 @@ Aptagon Technologies (2020 – Present) :contentReference[oaicite:3]{index=3}
 
 ---
 
-*This README was generated using publicly available information from LinkedIn and Aptagon Technologies.*
-::contentReference[oaicite:5]{index=5}
+
