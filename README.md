@@ -2,7 +2,7 @@
 
 **Senior Full Stack Web Developer & CTO** at Aptagon Technologies 
 
-📍 Okara District, Pakistan : 
+📍 Poole, United Kindgdom : 
 🔗 [LinkedIn](https://www.linkedin.com/in/talal-nazir/)  
 
 ---
