@@ -48,7 +48,7 @@ Aptagon Technologies (2020 – Present)
 
 ## 📫 Contact
 
-- **Email:** [contact@aptagon.com](mailto:talallnazir007@gmail.com)  
+- **Email:** [talallnazir007@gmail.com](mailto:talallnazir007@gmail.com)  
 - **Website:** [aptagon.com](https://aptagon.com/)   
 - **LinkedIn:** [linkedin.com/in/talal-nazir](https://www.linkedin.com/in/talal-nazir/)  
 
